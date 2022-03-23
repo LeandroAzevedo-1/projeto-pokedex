@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+main{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(-45deg, #5b2c64, #70a0b9,#a2cac5,#65ccc2) ;
+    background-size: 400% 400%;
+    animation: backgroundTransition 8s ease-in-out infinite ;
+    transition: .5s cubic-bezier(0.55, 0.025, 0.675, 0.97);
+}
+.pokedex{
+
+    display: flex;
+    gap: 30px;
+    padding: 30px 0;
+}
+@keyframes backgroundTransition{
+    0%{
+        background-position: 0% 80%;
+    }
+    50%{
+        background-position:80% 100%;
+    }
+    90%{
+        background-position: 0% 90%;
+    }
+}
