@@ -4,7 +4,7 @@
 
 <section>
   <p> O projeto pokédex foi feito na semana MAPADEV_WEEK ministrado pelos Gemios do <a href="https://www.linkedin.com/company/dev-em-dobro/" targent="_brank">DEVEMDOBRO</a> </p>
-  <p>Conhecimento adquirido:</p>
+  <p>Conhecimentos adquiridos:</p>
   <p>DISPLAY FLEX | RESPONSIVIDADE | INTERAÇÃO COM JAVASCRIPT </p>
   <a href="https://leandroazevedo-1.github.io/projeto-pokedex/" target="_blank">Clique aqui e veja como ficou a página</a>
   
